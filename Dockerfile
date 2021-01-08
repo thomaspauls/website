@@ -1,4 +1,4 @@
-#This is a docker file for build
+#This is a docker file for build and test
 
 FROM hshar/webapp
 
